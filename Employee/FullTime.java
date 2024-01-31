@@ -48,6 +48,14 @@ public class FullTime extends Employee {
             return 0;
         }
     }
+    public void assA(){
+        /*asdasdasdasdasd
+         * asdasdasdasd
+         * asdasdasd
+         * asdasdasd
+         * asdassdss
+         */
+    }
     public double calculateSalary() {
         return calculateSalaryAllowance();
     }
