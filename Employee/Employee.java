@@ -7,6 +7,18 @@ public abstract class Employee implements IEMPLOYEE {
     private String EmpID;
     private String Empname;
     private LocalDate DateofBirth;
+    private int Age;
+    public String getAge() {
+        ///
+        ///
+        //
+        //
+        //
+        return Age;
+    }
+    public void setAGe(String getAge) {
+        Age = Age;
+    }
     public String getEmpID() {
         return EmpID;
     }
